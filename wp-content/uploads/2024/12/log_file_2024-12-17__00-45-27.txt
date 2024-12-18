@@ -1,0 +1,81 @@
+
+---Downloaded files---
+The import files for: Big Store Electro were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/bigstore
+Data file = /opt/lampp/htdocs/bigstore/wp-content/uploads/2024/12/demo-content-import-file_2024-12-17__00-45-27.xml
+Widget file = /opt/lampp/htdocs/bigstore/wp-content/uploads/2024/12/demo-widgets-import-file_2024-12-17__00-45-27.json
+Customizer file = /opt/lampp/htdocs/bigstore/wp-content/uploads/2024/12/demo-customizer-import-file_2024-12-17__00-45-27.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "Pexels Videos 905049" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Image - No Title - Imported
+Products list - Popular - Imported
+Tag Cloud - Tag Clouds - Imported
+
+Footer Below Second Widget : 
+
+Image - No Title - Imported
+
+Footer Widget Area 1 : 
+
+Text - Connect With Us - Imported
+Text - Useful Links - Imported
+
+Footer Widget Area 2 : 
+
+Text - More About Store - Imported
+Navigation Menu - End Points - Imported
+
+Footer Widget Area 3 : 
+
+Products list - Products - Imported
+
+Footer Widget Area 4 : 
+
+Custom HTML - Contact Details - Imported
+Text - Offline Stores - Imported
+
+WooCommerce Sidebar : 
+
+Filter Products by Price - Filter by Price - Imported
+Product Categories - Product categories - Imported
+Products list - Products - Imported
+Filter Products by Rating - Average Rating - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
